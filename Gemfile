@@ -45,5 +45,9 @@ group :development, :test do
   gem 'carrierwave'
   gem 'rmagick'
 
+  gem 'twitter-bootstrap-rails'
+
+  gem 'jquery-turbolinks'
+
   gem 'rails_12factor', group: :production
 end
